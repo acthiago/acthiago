@@ -108,8 +108,4 @@ Exemplos de DAGs e pipelines de automação.
 
 ## Contato
 
-LinkedIn
-
-GitHub
-
-Credly
+ https://www.linkedin.com/in/thiago-a-cordeiro/
